@@ -1,0 +1,6 @@
+{
+  "sourceLang": "German",
+  "transLang": "Spanish",
+  "initText": "Hallo",
+  "expectText": "Hola"
+}

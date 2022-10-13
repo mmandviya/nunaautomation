@@ -1,0 +1,14 @@
+{
+  "name": "nunaautomationexercise",
+  "version": "1.0.0",
+  "description": "Testing Google Translate Functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehul Mandviya",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
